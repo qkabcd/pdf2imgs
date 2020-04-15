@@ -1,3 +1,5 @@
+批量把pdf转换为jpg
+
 # 用pip安装 pdf2image这个模块
 pip install pdf2image
 
